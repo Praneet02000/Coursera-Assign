@@ -10,8 +10,8 @@ h1 {
 }
 
 body {
-	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	
+	background-color: #ffe7c9;
 
 }
 
@@ -31,7 +31,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #00FF99;
+	background-color: #c4e1fc;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
@@ -41,46 +41,36 @@ section {
 }
 
 #chicken {
-	border: 1px solid black;
+	
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Georgia,sans-serif; 
 	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 5px;
-	background-color: #FFFF00;
+	font-size: 145%;
+	margin: 4px auto;
+	width:100%;
+	
+    
 }
 
 #beef {
-	border: 1px solid black;
+
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Georgia,sans-serif; 
 	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 5px;
-	background-color: #FF1439;
+	font-size: 145%;
+	margin: 4px auto;
+	width:100%;
+	
 }
 
 #sushi {
-	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Georgia,sans-serif; 
 	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;
-	background-color: #6495ED;
-	color: white;
-	padding: 5px;
+	font-size: 145%;
+	margin: 4px auto;
+	width:100%;
+	
 }
 
 #chicken-div {
@@ -104,14 +94,15 @@ section {
   color: #FFFFFF;
 }
 
+
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
-  color: #FFFFFF;
+  background-color: #200b4a;
+    color: #f7efef;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid #f7955b;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
